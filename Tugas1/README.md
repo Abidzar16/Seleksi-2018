@@ -6,9 +6,9 @@
 </h1>
 
 ### Description
-A web scrapper that scraps train External HDD Price from bukalapak.com. The scrapped data contains the price of the External HDD. Returns the JSON object of the parsed data from the website.
+proses ini adalah proses scrapping data Hardisk Eksternal dari bukalapak.com , proses ini secara garis besar terdiri dari tiga : parsing (yaitu proses pengambilan url yang kita akan scrapping), extraction (pengambilan/scrapping data dari url hasil parse) dan yang terakhir export (export hasil extraction kedalam bentuk json), JSON structure dapat dilihat di dalam folder "data", library yang digunknan adalah : requests, BeautifulSoup, json, dan io
 
-See JSON Structure for further details.
+author : Abidzar Muhammad Ghifari
 
 ### Specifications
 
