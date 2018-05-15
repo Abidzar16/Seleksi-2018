@@ -1,17 +1,14 @@
 <h1 align="center">
   <br>
-  Tugas 1 Seleksi Warga Basdat 2018
+  External HDD Price
   <br>
   <br>
 </h1>
 
-<h2 align="center">
-  <br>
-  Data Scraping
-  <br>
-  <br>
-</h2>
+### Description
+proses ini adalah proses scrapping data Hardisk Eksternal dari bukalapak.com , proses ini secara garis besar terdiri dari tiga : parsing (yaitu proses pengambilan url yang kita akan scrapping), extraction (pengambilan/scrapping data dari url hasil parse) dan yang terakhir export (export hasil extraction kedalam bentuk json), JSON structure dapat dilihat di dalam folder "data", library yang digunknan adalah : requests, BeautifulSoup, json, dan io
 
+author : Abidzar Muhammad Ghifari
 
 ### Specifications
 
