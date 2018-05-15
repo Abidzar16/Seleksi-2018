@@ -1,17 +1,14 @@
 <h1 align="center">
   <br>
-  Tugas 1 Seleksi Warga Basdat 2018
+  External HDD Price
   <br>
   <br>
 </h1>
 
-<h2 align="center">
-  <br>
-  Data Scraping
-  <br>
-  <br>
-</h2>
+### Description
+A web scrapper that scraps train External HDD Price from bukalapak.com. The scrapped data contains the price of the External HDD. Returns the JSON object of the parsed data from the website.
 
+See JSON Structure for further details.
 
 ### Specifications
 
